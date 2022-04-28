@@ -35,6 +35,19 @@ You can find me on the following social networks:
   <img src="https://github.com/EMLCoding/EMLCoding/blob/main/Flutter.png" title="Flutter" width="40" height="40"/>
 </div>
 
+### Tools:
+<div id="tools">
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/eclipse.png" title="Eclipse" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/vscode.svg" title="VisualCode" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/xcode.svg" title="Xcode" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/github.svg" title="GitHub" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/sourcetree.svg" title="Sourcetree" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/jira.svg" title="Jira" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/jenkins.svg" title="Jenkins" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/sketch.svg" title="Sketch" width="40" height="40"/>
+</div>
+
 <!--
 **EMLCoding/EMLCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
