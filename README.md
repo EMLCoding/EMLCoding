@@ -12,25 +12,18 @@ You can find me on the following social networks:
   </a>
 </div>
 
-
-<div id="header" align="center" fontSize="30">
-  <span>Hi there, I'm <strong>Eduardo Martin Lorenzo</strong></span>
-  <br/>
-  <span>🧑🏻‍💻 A software engineree 🧑🏻‍💻</span>
-  <br/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADn-lorenzo-9a83b1b2">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=EMLCoding&style=flat-square&color=blue" alt=""/>
-</div>
-
+### Skills:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="languages">
-  <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c516.png" title="Apple" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/java.svg" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/javascript.svg" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/typescript.svg" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swift-original.svg" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/kotlin.svg" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/html5.svg" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/css3.svg" width="40" height="40"/>
 </div>
 
 <!--
