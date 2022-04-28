@@ -3,7 +3,15 @@
 
 I'm a professional web & software developer. I started in 2019 as a web developer, training in front technologies like Angular, and using Spring for backend development.
 Later I started training in mobile development, with cross-platform technologies such as <img src="https://github.com/EMLCoding/EMLCoding/blob/main/reactNative.webp" width="20" height="20"/> React Native and <img src="https://github.com/EMLCoding/EMLCoding/blob/main/Flutter.png" width="20" height="20"/> Flutter .
-I am currently training as an iOS (native) developer with <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swift.jpg" width="20" height="20"/> Swift and SwiftUI, and developing my own projects in my spare time.
+I am currently training as an iOS (native) developer with <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swift.png" width="20" height="20"/> Swift and SwiftUI, and developing my own projects in my spare time.
+
+You can find me on the following social networks:
+<div id="socialNetworks">
+  <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADn-lorenzo-9a83b1b2">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 <div id="header" align="center" fontSize="30">
   <span>Hi there, I'm <strong>Eduardo Martin Lorenzo</strong></span>
