@@ -15,15 +15,24 @@ You can find me on the following social networks:
 ### Skills:
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages:
 <div id="languages">
-  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/java.svg" width="40" height="40"/>
-  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/javascript.svg" width="40" height="40"/>
-  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/typescript.svg" width="40" height="40"/>
-  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swift-original.svg" width="40" height="40"/>
-  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/kotlin.svg" width="40" height="40"/>
-  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/html5.svg" width="40" height="40"/>
-  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/css3.svg" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/java.svg" title="Java" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/javascript.svg" title="Javascript" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/typescript.svg" title="Typescript" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swift-original.svg" title="Swift" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/kotlin.svg" title="Kotlin" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/html5.svg" title="HTML5" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/css3.svg" title="CSS3" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/sql.png" title="SQL" width="40" height="40"/>
+</div>
+
+### Frameworks:
+<div id="frameworks">
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/angular.png" title="Angular" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/spring.svg" title="Spring" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swiftUI.svg" title="SwiftUI" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/Flutter.png" title="Flutter" width="40" height="40"/>
 </div>
 
 <!--
