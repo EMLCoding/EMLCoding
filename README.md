@@ -2,7 +2,7 @@
 ### :computer: A software developer :computer:
 
 I'm a professional web & software developer. I started in 2019 as a web developer, training in front technologies like Angular, and using Spring for backend development.
-Later I started training in mobile development, with cross-platform technologies such as <img src="https://github.com/EMLCoding/EMLCoding/blob/main/reactNative.webp" width="30" height="30"/> React Native and Flutter <img src="https://github.com/EMLCoding/EMLCoding/blob/main/flutter.jpg" width="40" height="40"/>.
+Later I started training in mobile development, with cross-platform technologies such as <img src="https://github.com/EMLCoding/EMLCoding/blob/main/reactNative.webp" width="30" height="30"/> React Native and <img src="https://github.com/EMLCoding/EMLCoding/blob/main/Flutter.png" width="20" height="20"/> Flutter .
 I am currently training as an iOS (native) developer with Swift and SwiftUI, and developing my own projects in my spare time
 
 <div id="header" align="center" fontSize="30">
