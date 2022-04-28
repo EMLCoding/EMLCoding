@@ -32,6 +32,7 @@ You can find me on the following social networks:
   <img src="https://github.com/EMLCoding/EMLCoding/blob/main/angular.png" title="Angular" width="40" height="40"/>
   <img src="https://github.com/EMLCoding/EMLCoding/blob/main/spring.svg" title="Spring" width="40" height="40"/>
   <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swiftUI.svg" title="SwiftUI" width="40" height="40"/>
+  <img src="https://github.com/EMLCoding/EMLCoding/blob/main/reactNative.webp" title="React Native" width="40" height="40"/>
   <img src="https://github.com/EMLCoding/EMLCoding/blob/main/Flutter.png" title="Flutter" width="40" height="40"/>
 </div>
 
