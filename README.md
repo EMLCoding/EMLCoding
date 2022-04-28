@@ -1,5 +1,9 @@
 # Hi there 👋 I am Eduardo Martin Lorenzo
-### :computer: A software engineree :computer:
+### :computer: A software developer :computer:
+
+I'm a professional web & software developer. I started in 2019 as a web developer, training in front technologies like Angular, and using Spring for backend development.
+Later I started training in mobile development, with cross-platform technologies such as React Native and Flutter.
+I am currently training as an iOS (native) developer with Swift and SwiftUI, and developing my own projects in my spare time
 
 <div id="header" align="center" fontSize="30">
   <span>Hi there, I'm <strong>Eduardo Martin Lorenzo</strong></span>
