@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <span>Hi there, I'm Eduardo Martin Lorenzo</span>
+  <span>A software engineree</span>
 </div>
 
 <!--
