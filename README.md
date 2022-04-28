@@ -7,7 +7,7 @@ Later I started training in mobile development, with cross-platform technologies
 
 I am currently training as an iOS (native) developer with <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swift.png" width="20" height="20"/> Swift and SwiftUI, and developing my own projects in my spare time.
 
-You can find me on the following social networks:
+**You can find me on the following social networks:**
 <div id="socialNetworks">
   <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADn-lorenzo-9a83b1b2">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
