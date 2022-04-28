@@ -13,7 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=EMLCoding&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="body">
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div id="languages">
+  https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg
 </div>
 
 <!--
