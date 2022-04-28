@@ -4,7 +4,7 @@
   <span>Hi there, I'm <strong>Eduardo Martin Lorenzo</strong></span>
   <br/>
   <span>🧑🏻‍💻 A software engineree 🧑🏻‍💻</span>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=EMLCoding&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
