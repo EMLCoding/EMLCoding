@@ -17,7 +17,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="languages">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg" width="40" height="40"/>
+  <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c516.png" title="Apple" width="40" height="40"/>
 </div>
 
 <!--
