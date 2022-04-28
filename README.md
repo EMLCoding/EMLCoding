@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
+<div id="header" align="center" fontSize="30">
   <span>Hi there, I'm <strong>Eduardo Martin Lorenzo</strong></span>
   <br/>
   <span>🧑🏻‍💻 A software engineree 🧑🏻‍💻</span>
