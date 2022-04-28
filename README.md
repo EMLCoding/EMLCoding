@@ -14,8 +14,8 @@ You can find me on the following social networks:
   </a>
 </div>
 
-### Skills:
 ---
+### Skills:
 
 ### Languages:
 <div id="languages">
