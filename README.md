@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <span>Hi there, I'm <strong>Eduardo Martin Lorenzo</strong></span>
   <br/>
-  <span>A software engineree</span>
+  <span>🧑🏻‍💻 A software engineree 🧑🏻‍💻</span>
 </div>
 
 <!--
