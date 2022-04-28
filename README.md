@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋 I am Eduardo Martin Lorenzo
+### :computer: A software engineree :computer:
 
 <div id="header" align="center" fontSize="30">
   <span>Hi there, I'm <strong>Eduardo Martin Lorenzo</strong></span>
