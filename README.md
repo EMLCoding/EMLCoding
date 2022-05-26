@@ -53,7 +53,6 @@ I am currently training as an iOS (native) developer with <img src="https://gith
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EMLCoding&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMLCoding&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EMLCoding/EMLCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
