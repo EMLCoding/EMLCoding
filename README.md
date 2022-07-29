@@ -1,11 +1,15 @@
 # Hi there 👋 I'm Eduardo Martin Lorenzo
 ### :computer: A software developer :computer:
 
-I'm a professional web & software developer. I started in 2019 as a web developer, training in front technologies like Angular, and using Spring for backend development.
+I am a professional web and mobile application developer. Since 2019 I have been working in this sector, developing several projects in the company I work for as well as in my free time.
 
-Then I started training in mobile development, with cross-platform technologies such as <img src="https://github.com/EMLCoding/EMLCoding/blob/main/reactNative.webp" width="20" height="20"/> React Native and <img src="https://github.com/EMLCoding/EMLCoding/blob/main/Flutter.png" width="20" height="20"/> Flutter .
+In 2022 I start my career as a freelancer to make great applications, both web and mobile, using the most current technologies in the sector and applying the best solutions for each development.
 
-I am currently training as an iOS (native) developer with <img src="https://github.com/EMLCoding/EMLCoding/blob/main/swift.png" width="20" height="20"/> Swift and SwiftUI, and developing my own projects in my free time.
+I currently have an app uploaded to the App Store: <a href="https://apps.apple.com/es/app/pillapp/id1635980274">PillApp</a>
+
+All the information is on my website: <a href="https://emlcoding.com">EMLCoding</a>
+
+Do you want to make a mobile application or a web page? Contact me.
 
 **You can find me on the following social networks:**
 <div id="socialNetworks">
