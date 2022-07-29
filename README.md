@@ -7,9 +7,7 @@ In 2022 I start my career as a freelancer to make great applications, both web a
 
 I currently have an app uploaded to the App Store: <a href="https://apps.apple.com/es/app/pillapp/id1635980274">PillApp</a>
 
-All the information is on my website: <a href="https://emlcoding.com">EMLCoding</a>
-
-Do you want to make a mobile application or a web page? Contact me.
+Do you want to make a mobile application or a web page? Contact me. All the information is on my website: <a href="https://emlcoding.com">EMLCoding</a>
 
 **You can find me on the following social networks:**
 <div id="socialNetworks">
