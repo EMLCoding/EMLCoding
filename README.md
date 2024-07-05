@@ -6,6 +6,7 @@ I am a professional web and mobile application developer. Since 2019 I have been
 In 2022 I start my career as a freelancer to make great applications, both web and mobile, using the most current technologies in the sector and applying the best solutions for each development.
 
 I currently have an app uploaded to the App Store: <a href="https://apps.apple.com/es/app/pillapp/id1635980274">PillApp</a>
+
 And I currently have an app uploaded to the Google Play: <a href="https://play.google.com/store/apps/details?id=com.emlcoding.rulebox">RuleBox</a>
 
 
